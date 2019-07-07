@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map For Steer_protocol
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+Steer_protocol  		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ Check_Sum		KEYWORD2
+ ping              KEYWORD2 
+ write             KEYWORD2 
+ sync_write    KEYWORD2
+ reset             KEYWORD2 

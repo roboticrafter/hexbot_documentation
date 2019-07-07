@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For Arm
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+Arm		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+IK		       	KEYWORD2
+IKMove		       	KEYWORD2
+angleMove		KEYWORD2
+act		       	KEYWORD2
+originalPositionMove   	KEYWORD2
+servoControl           	KEYWORD2
+pumpSuck               	KEYWORD2
+offsetSet		KEYWORD2
